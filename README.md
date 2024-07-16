@@ -1,4 +1,4 @@
-this is a pure real word vanilla js project 
+this is a pure vanilla js + html  real word  project 
 this is about the use of the map library to show our workout stats 
 in this project i have used 
 1. leaflet opensource map library
